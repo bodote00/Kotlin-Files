@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poznámky</string>
+    <string name="note_name">Názov</string>
+    <string name="note_text">Text</string>
+    <string name="add_buton">Pridať</string>
+    <string name="edit_buton">Upraviť</string>
+</resources>
