@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Notes</string>
-    <string name="note_name">Note name</string>
-    <string name="note_text">Note text</string>
-    <string name="add_buton">Add</string>
-</resources>
