@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poznamky</string>
+    <string name="note_name">Jmeno poznamky</string>
+    <string name="note_text">Text poznamky</string>
+    <string name="add_buton">Pridat</string>
+</resources>
